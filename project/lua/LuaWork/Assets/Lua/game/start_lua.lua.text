@@ -1,0 +1,10 @@
+local m_gameObject
+
+function open_view()
+	m_gameObject:SetActive(true)
+end
+
+function Test(gameObject)
+	m_gameObject = gameObject
+end
+

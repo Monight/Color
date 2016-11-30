@@ -1,0 +1,17 @@
+5.4.0b23:2.2.0.0
+StandaloneWindows
+E:/soft/u3d_5_4/Editor/Data/Managed/UnityEngine.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/soft/u3d_5_4/Editor/Data/Managed/UnityEditor.dll
+E:/soft/u3d_5_4/Editor/Data\Managed/Mono.Cecil.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/soft/u3d_5_4/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/soft/u3d_5_4/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/soft/u3d_5_4/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.Metro.Extensions.dll
+E:/soft/u3d_5_4/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

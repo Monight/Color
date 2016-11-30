@@ -1,0 +1,5 @@
+require "Common/functions" 
+
+function  test()
+	log("hujian")
+end
